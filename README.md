@@ -30,5 +30,27 @@ This dataset includes information about individual rides made in a bike-sharing 
 
 ## Business Insights
 
-- It seems that the proportion of male is represent the majority of bike riders with **74.6%** . while the proportion of female of bike riders is only **23.3%** , and the other(unspecific) 
-  proportion is **2.1%**.
+- It seems that the proportion of male is represent the majority of bike riders with **74.6%** . while the proportion of female bike riders is only **23.3%** , and the other(unspecific) proportion 
+  is **2.1%**.
+
+- Slightly above **160,000** of bike riders are members (Subscriber) , however **20,000** of bike riders are non-members (Customers) which's a huge difference.
+
+- The female & other genders tend to spend slightly more time in the trip duration , whereas most of the men tend to usually spend less time. And the non-members (Customers) are more likely to 
+  spend more time in the trip duration than the members(Subscribers).
+
+- Generally , the members (subscribers) tend to use the bikes for their trips more often compared to the non-members (customers) over the weekdays. Also , we observed that both members and non- 
+  members are less often to use the bikes on the weekends.
+
+- The median of duration is almost the same during all days. However, The trip duration on the weekends is slightly more than on the weekdays.
+
+- There are less bike riders in their **70 - 80 years old** for both genders. In total ,  a lot of the trip duration is usually **200 minutes or less** , and the longest trip duration made by the 
+  males is for **43 years old man** ,  while the longest trip duration made by the females is for **61 years old women**.
+
+- The trip duration of the non-members on weekends is usually longer than the weekdays , whereas for the trip duration of the members relatively tends to be the same duration during all the 
+  weekdays , but it slightly tends to be more on the weekends.
+
+- Regardless of whether the bike rider is female or male , member or non member the trip duration will be longer on Thursdays than the other days.
+
+## References
+
+- 
