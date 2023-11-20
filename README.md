@@ -51,6 +51,12 @@ This dataset includes information about individual rides made in a bike-sharing 
 
 - Regardless of whether the bike rider is female or male , member or non member the trip duration will be longer on Thursdays than the other days.
 
+- We may say that : based on the trip duration of the subscribers in this dataset , any individual who frequently need to use a bike are more likely to subscribed. 
+
 ## References
 
-- 
+- [Ford GoBike System Eploratory Analysis Project File](https://github.com/hayasalman/Ford-GoBike-System-Data-Analysis/blob/main/Exploratory_%20Analysis.ipynb)
+
+- [Ford GoBike System Explanatory Analysis Project File](https://github.com/hayasalman/Ford-GoBike-System-Data-Analysis/blob/main/Explanatory_Analysis_Slide_Deck.ipynb)
+
+
