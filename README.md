@@ -39,7 +39,7 @@ This dataset includes information about individual rides made in a bike-sharing 
   spend more time in the trip duration than the members(Subscribers).
 
 - Generally , the members (subscribers) tend to use the bikes for their trips more often compared to the non-members (customers) over the weekdays. Also , we observed that both members and non- 
-  members are less often to use the bikes on the weekends.
+  members are less likely to use the bikes on the weekends.
 
 - The median of duration is almost the same during all days. However, The trip duration on the weekends is slightly more than on the weekdays.
 
