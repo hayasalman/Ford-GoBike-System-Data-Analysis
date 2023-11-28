@@ -89,8 +89,8 @@ We need to set up our local environment to programming using python , here :
 
 ## References
 
-- [Ford GoBike System Eploratory Analysis Project File](https://github.com/hayasalman/Ford-GoBike-System-Data-Analysis/blob/main/Exploratory_%20Analysis.ipynb)
+- [Ford GoBike System Eploratory Analysis IPYNB File](https://github.com/hayasalman/Ford-GoBike-System-Data-Analysis/blob/main/Exploratory_%20Analysis.ipynb)
 
-- [Ford GoBike System Explanatory Analysis Project File](https://github.com/hayasalman/Ford-GoBike-System-Data-Analysis/blob/main/Explanatory_Analysis_Slide_Deck.ipynb)
+- [Ford GoBike System Explanatory Analysis IPYNB File](https://github.com/hayasalman/Ford-GoBike-System-Data-Analysis/blob/main/Explanatory_Analysis_Slide_Deck.ipynb)
 
 
