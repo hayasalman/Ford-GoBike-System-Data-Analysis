@@ -44,6 +44,7 @@ We need to set up our local environment to programming using python , here :
 - Install Jupyter Notebooks.
 
   ```conda install jupyter notebook```
+
 ## Coding
 
 -  Python Integrated Development Environment (IDE) : Jupyter Notebooks.
@@ -53,8 +54,9 @@ We need to set up our local environment to programming using python , here :
 * **pandas - numby** : used for data manipulation.
 * **matplotlib - seaborn** : used for data visualization.
 
-**NOTE** : to run the slid deck in Jupyter Notebooks : ```!jupyter nbconvert Explanatory_Analysis_Slide_Deck.ipynb --to slides --post serve --no-input --no-prompt```
+**NOTE** : to run the slid deck in Jupyter Notebooks : 
 
+```!jupyter nbconvert Explanatory_Analysis_Slide_Deck.ipynb --to slides --post serve --no-input --no-prompt```
 
 ## Approaches & Methodologies
 
